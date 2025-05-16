@@ -1,6 +1,6 @@
 # Setup
 title: nyongking Blog.
-description: Client, Engine, Programmer
+description: Client/Engine Programmer
 url: https://nyongking.github.io
 avatar: /MyProfile.png
 paginate: 5
@@ -28,9 +28,6 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
   name: nyongking
