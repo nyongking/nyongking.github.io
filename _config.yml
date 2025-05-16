@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: nyongking Blog.
+description: Client, Engine, Programmer
+url: https://nyongking.github.io
+avatar: /MyProfile.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -33,12 +33,11 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: nyongking
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/nyongking
 google_site_verification: xxxxx
-lang: en
+lang: kr
 
 sass:
   sass_dir: _sass
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: nyongking
+  url: https://github.com/nyongking/
+  email: niyongking@gmail.com
